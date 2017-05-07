@@ -135,7 +135,7 @@ demo = {
     	
     	$.notify({
         	icon: "pe-7s-gift",
-        	message: "Welcome to <b>Light Bootstrap Dashboard</b> - a beautiful freebie for every web developer."
+        	message: "Hi herbalist"
         	
         },{
             type: type[color],
